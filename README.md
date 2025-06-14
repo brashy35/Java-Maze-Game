@@ -30,10 +30,10 @@ As basic as you.
 
 ## What’s in this code?
 
-- **Main.java** — Just sets up the game window and gets things rolling
-- **GamePanel.java** — Handles the actual game loop and screen drawing
-- **KeyHandler.java** — Watches your keyboard so the player knows where to go
-- **CollisionCheck.java** — Keeps you from walking through obstacles
+- **Main.java** — sets up the game window
+- **GamePanel.java** — handles the actual game loop and screen drawing
+- **KeyHandler.java** — watches your keyboard so the player knows where to go
+- **CollisionCheck.java** — keeps you from walking through obstacles
 
 ## Why??
 
