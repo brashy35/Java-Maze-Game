@@ -11,7 +11,7 @@ public class Main {
 
         window.setResizable(true); // so we cannot resize window
 
-        window.setTitle("Desert Escape: The Bearded Odyssey"); // title of the game
+        window.setTitle("Maze of Haze"); // title of the game
 
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);
